@@ -1,5 +1,5 @@
 # cypress.js
-Автотесты на cypress
+Пример автотестов на "Cypress" на тестовом сайте https://demowebshop.tricentis.com/.
 ### Как запустить?
 
 1. Установить node.js: https://nodejs.org/en/download/
